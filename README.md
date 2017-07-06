@@ -1,5 +1,5 @@
-# p5demo
-Welcome to the ReadMe for your first p5 demo project!
+### p5demo
+## Welcome to the ReadMe for your first p5 demo project!
 
 This gives you the two simple files that will let you test your coding knowledge practically with the associated tutorial series. 
 
