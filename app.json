@@ -1,0 +1,7 @@
+{
+  "name": "p5.js sandbox",
+  "description": "A sandbox for creating and sharing p5.js sketches",
+  "repository": "https://github.com/genekogan/p5js_sandbox",
+  "logo": "http://p5js.org/img/p5js.svg",
+  "keywords": ["node", "express", "static", "processing", "p5.js"]
+}
