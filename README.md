@@ -10,6 +10,29 @@ This gives you the two simple files that will let you test your coding knowledge
 Here are some instructions for you as you proceed through the project:
 
 
+### 0: Dario
+  Hey, so here are some special instructions before you being working with this project/tutorial system:
+
+  1: Install Visual Studio Code (VSCode for short)
+  https://code.visualstudio.com/download
+
+  2: Open VSCode (you might want to pin this to your task bar, this is going to be your #1 place to write code at least for a while)
+  
+  3: Hit Ctrl - ~
+  You just opened the integrated terminal in VSCode. This is how you will install alot of coding related software and tools. 
+
+  4: Install Git:
+  https://git-scm.com/download/win
+
+  5: 'Clone' the repo for the project starter kit that I made onto your machine:
+  Side Note: Everything that looks like `this` is to be entered into the terminal.
+  To clone the repo onto your machine:
+  1: `cd` (this navigates you to your user directory)
+  2: `git clone REPOURL` (the repo url in this case is: 
+  https://github.com/WilliamTOliver/p5demo)
+  3: `git checkout dario` I created a 'branch' or version of the files specifically for you, though all files on your machine now, are yours. This is where I might add things if you come into some trouble and need any help specific to you and not to anyone approaching these files.
+  4: Create a GitHub account (github.com) and email me your username so I can add you as a contributor on the project. This will let you commit up and share things, possibly with me, possibly with Lauren.   5: that's all for now.
+
 ### 1: When Setting Up
   First clone the files on your machine:
   `git clone REPOURL`
